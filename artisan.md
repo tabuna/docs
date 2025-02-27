@@ -24,6 +24,8 @@ php artisan help migrate
 
 Если вы используете [Laravel Sail](/docs/{{version}}/sail) в качестве локальной среды разработки, не забудьте использовать командную строку `sail` для вызова команд Artisan. Sail выполнит ваши команды Artisan в контейнерах Docker вашего приложения:
 
+Это правка! Исправление опечатки
+
 ```shell
 ./vendor/bin/sail artisan list
 ```
